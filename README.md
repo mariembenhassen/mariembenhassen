@@ -1,3 +1,4 @@
+![logo](https://github.com/mariembenhassen/Mariem-Ben-Hassen/blob/main/Mariem%20Ben%20Hassen.png)
 <h1 align="center">Hi 👋, I'm Mariem Ben Hassen</h1>
 <h3 align="center">Final-Year Software Engineering Student at the National School of Computer Science, Manouba, Tunisia</h3>
 
