@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mariem Ben Hassen</h1>
 <h3 align="center">Final-Year Software Engineering Student at the National School of Computer Science, Manouba, Tunisia</h3>
 
-<p align="left"><img align="rigt" alt="coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"></p>
+<p align="center"><img align="rigt" alt="coding" width="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"></p>
 
 - 🔭 I am studying Computer Science while simultaneously pursuing a Master's degree in Data Science. **I am studying Computer Science while simultaneously pursuing a Master's degree in Data Science.**
 
