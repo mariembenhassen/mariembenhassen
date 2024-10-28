@@ -1,6 +1,6 @@
-<p align="center">
+
   <img src="https://github.com/mariembenhassen/Mariem-Ben-Hassen/blob/main/Mariem%20Ben%20Hassen.png" alt="logo" width="200"/>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mariembenhassen&color=blue&style=flat-square" alt="Visitor Count"/>
