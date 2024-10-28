@@ -1,5 +1,7 @@
-![logo](https://github.com/mariembenhassen/Mariem-Ben-Hassen/blob/main/Mariem%20Ben%20Hassen.png)
-![Visitor Count](https://komarev.com/ghpvc/?username=mariembenhassen&color=blue&style=flat-square)
+<p align="center">
+  <img src="https://github.com/mariembenhassen/Mariem-Ben-Hassen/blob/main/Mariem%20Ben%20Hassen.png" alt="logo" width="200"/>
+  <img src="https://komarev.com/ghpvc/?username=mariembenhassen&color=blue&style=flat-square" alt="Visitor Count"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Mariem Ben Hassen</h1>
 <h3 align="center">Final-Year Software Engineering Student at the National School of Computer Science, Manouba, Tunisia</h3>
