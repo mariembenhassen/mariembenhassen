@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/mariembenhassen/Mariem-Ben-Hassen/blob/main/Mariem%20Ben%20Hassen.png" alt="Mariem Ben Hassen Logo" width="150"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Mariem Ben Hassen</h1>
 <h3 align="center">Full-Stack Software Engineer | DevOps & AI Enthusiast</h3>
 
