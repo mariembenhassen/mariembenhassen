@@ -27,13 +27,6 @@ I enjoy solving challenging problems and learning new technologies to deliver im
 
 ---
 
-### 🚀 Featured Projects
-- **Emergency MedLink** – Hospital crisis management app (Node.js, Flutter, Neo4j)  
-- **FindYourDoctor** – Rural healthcare platform (React, Node.js), recognized at ISI Hackathon  
-- **TuniBatman** – National alert application (Angular, Spring Boot), awarded for public safety impact  
-
----
-
 ### 🎓 Education
 - **Engineering Degree in Computer Science** — ENSI (2022–2025)  
 
