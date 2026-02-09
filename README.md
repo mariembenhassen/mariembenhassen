@@ -18,7 +18,7 @@ I enjoy solving challenging problems and learning new technologies to deliver im
 
 ### ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,python,java,php,docker,kubernetes,git,postgresql,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,php,docker,kubernetes,git,postgresql,mysql,mongodb" />
 </p>
 
 ---
