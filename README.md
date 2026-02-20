@@ -32,11 +32,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,php,docker,kubernetes,git,postgresql,mysql,mongodb" />
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ParshSharma&style=for-the-badge&color=6366f1&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
