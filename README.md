@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariem Ben Hassen</h1>
-<h3 align="center">Full-Stack Software Engineer | DevOps & AI Enthusiast</h3>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=80&lines=Full-Stack+Developer;Software+Engineer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="mailto:mariem.benhassen@ensi-uma.tn">📩 Email</a> •
