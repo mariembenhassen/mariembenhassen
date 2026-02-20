@@ -32,3 +32,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,java,php,docker,kubernetes,git,postgresql,mysql,mongodb" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mariembenhassen&color=blue&style=flat-square" alt="Profile Views"/>
+</p>
